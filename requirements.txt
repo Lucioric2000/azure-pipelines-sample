@@ -1,0 +1,2 @@
+#A sample package to be installed
+python-dateutil
